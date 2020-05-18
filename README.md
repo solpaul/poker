@@ -24,4 +24,4 @@ vision_trainer.ipynb trains a neural net to recognise number of players sat at a
 Current development items:
 - Fix heads-up button position (requires additional image read)
 - Speed up stack/button grab (stitch crops together for one OCR read by pytesseract)
-- Ranges currently obtained by navigating to 3rd party website - replace with local calculation
+- Ranges currently obtained by navigating to 3rd party website - replace with local calculation (heads up first, based on lookup tables)
